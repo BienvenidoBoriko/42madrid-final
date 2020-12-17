@@ -1,0 +1,6 @@
+Credentials cache: API:5259
+        Principal: bboriko-@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 26 11:46:01 2020  Nov 26 21:46:01 2020  krbtgt/42MADRID.COM@42MADRID.COM
+Nov 26 11:46:02 2020  Nov 26 21:46:01 2020  HTTP/student-storage.42madrid.com@42MADRID.COM
